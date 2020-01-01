@@ -14,4 +14,5 @@ This is starting point for you to know the options available to test tools your 
 * [Assertible](https://assertible.com/) - Continuously test and monitor your APIs after deployments and across environments.
 * [Pyresttest](https://github.com/svanoort/pyresttest) - YAML based REST testing and API microbenchmarking tool
 * [OWASP Zaproxy](https://github.com/zaproxy/zaproxy) - A tool to test your API for known security vulnerabilities, with a great CI integration
+* [vREST NG](https://ng.vrest.io) - An enterprise ready application for automated API Testing. It is very simple and intuitive application and works with any CI/CD server.
 
