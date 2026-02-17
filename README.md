@@ -17,3 +17,4 @@ This is starting point for you to know the options available to test tools your 
 * [vREST NG](https://ng.vrest.io) - An enterprise ready application for automated API Testing. It is very simple and intuitive application and works with any CI/CD server.
 * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Web-based HTTP client to send HTTP requests.
 * [Vibranium](https://www.npmjs.com/package/vibranium-cli) A command line based API testing framework that uses JSON to write tests.
+* [Webhook Debugger](https://github.com/brancogao/webhook-debugger) - Self-hosted webhook inspector with 90-day history and signature verification (Stripe, GitHub, Slack, Shopify).
