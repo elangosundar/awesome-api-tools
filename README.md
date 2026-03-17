@@ -17,3 +17,4 @@ This is starting point for you to know the options available to test tools your 
 * [vREST NG](https://ng.vrest.io) - An enterprise ready application for automated API Testing. It is very simple and intuitive application and works with any CI/CD server.
 * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Web-based HTTP client to send HTTP requests.
 * [Vibranium](https://www.npmjs.com/package/vibranium-cli) A command line based API testing framework that uses JSON to write tests.
+* [Arch Tools](https://archtools.dev) - 61 production-ready AI tools API (code analysis, web scraping, image generation, NLP, crypto, search) accessible via REST and MCP protocol. Free tier: 100 credits/month.
